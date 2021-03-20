@@ -34,9 +34,9 @@ module.exports = [
   //   text: "技术方案",
   //   link: "/tech/"
   // },
-  // //Nav 5
-  // {
-  //   text: "文档编写",
-  //   link: "/doc/"
-  // },
+  //Nav 5
+  {
+    text: "文档编写",
+    link: "/doc/"
+  },
 ];
