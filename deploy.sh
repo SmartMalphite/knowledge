@@ -20,7 +20,7 @@ git commit -m 'deploy'
 # git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git master
 
 # if you are deploying to https://<USERNAME>.github.io/<REPO>
-git remote add origin https://github.com/enbo-wang/webnote.git
+git remote add origin https://github.com/enbo-wang/knowledge_page
 git branch -M master
 git push -f origin master
 
