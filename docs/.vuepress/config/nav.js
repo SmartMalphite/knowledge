@@ -7,7 +7,6 @@ module.exports = [
   // Nav 2
   {
     text: "算法|数据结构",
-    //ariaLabel: 'Language Menu',
     link: "/leetcode/",
   },
   // {

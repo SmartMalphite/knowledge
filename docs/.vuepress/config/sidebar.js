@@ -16,11 +16,15 @@ module.exports = {
       collapsable: true, //是否展开
       children: [
         '',
-        "典型排序算法",
-        "DFS+回溯",
-        "动态规划"
-      ]
+      ],
     },
+    {
+      title: '链表',
+      collapsable: true, //是否展开
+      children: [
+        'Linked-list/',
+      ],
+    }
   ],
   // '/be-note/go-note/': [
   //   {
